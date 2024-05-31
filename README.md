@@ -1,2 +1,2 @@
-# CODSOFT
-For Internship Purposes 
+# CODES 
+For learning Purposes 
